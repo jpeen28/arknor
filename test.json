@@ -1,0 +1,620 @@
+{
+    "totalRecords": 7,
+    "startIndex": 0,
+    "metadata": {
+        "repositoryId": "e869dc3e-cbe1-4f20-87c5-a0e7dab70ca5",
+        "container": "workspace://SpacesStore/b37a8823-3500-41fb-b076-93fd8776cbbd",
+        "parent": {
+            "isLink": false,
+            "nodeRef": "workspace://SpacesStore/b37a8823-3500-41fb-b076-93fd8776cbbd",
+            "permissions": {
+                "inherited": false,
+                "roles": [
+                    "ALLOWED;GROUP_EVERYONE;Consumer;DIRECT"
+                ],
+                "user": {
+                    "Delete": true,
+                    "Write": true,
+                    "CancelCheckOut": false,
+                    "ChangePermissions": true,
+                    "CreateChildren": true,
+                    "Unlock": false
+                }
+            },
+            "isLocked": false,
+            "aspects": [
+                "cm:titled",
+                "cm:auditable",
+                "sys:referenceable",
+                "sys:localized",
+                "app:uifacets"
+            ],
+            "isContainer": true,
+            "type": "cm:folder",
+            "properties": {
+                "cm:title": "Home des Unternehmens",
+                "cm:creator": {
+                    "firstName": "System",
+                    "lastName": "User",
+                    "displayName": "System User",
+                    "userName": "System"
+                },
+                "cm:modifier": {
+                    "firstName": "System",
+                    "lastName": "User",
+                    "displayName": "System User",
+                    "userName": "System"
+                },
+                "cm:created": {
+                    "iso8601": "2022-09-21T11:50:39.669Z",
+                    "value": "Wed Sep 21 12:50:39 GMT+01:00 2022"
+                },
+                "sys:store-protocol": null,
+                "sys:store-identifier": null,
+                "cm:description": "Root-Arbeitsbereich des Unternehmens",
+                "sys:node-uuid": null,
+                "cm:name": "Home des Unternehmens",
+                "sys:node-dbid": null,
+                "sys:locale": null,
+                "cm:modified": {
+                    "iso8601": "2022-09-21T11:50:53.613Z",
+                    "value": "Wed Sep 21 12:50:53 GMT+01:00 2022"
+                },
+                "app:icon": "space-icon-default"
+            }
+        },
+        "custom": {
+            "googledocs": {
+                "enabled": true,
+                "importFormats": {
+                    "application/vnd.openxmlformats-officedocument.presentationml.presentation": "presentation",
+                    "application/vnd.ms-powerpoint": "presentation",
+                    "text/tab-separated-values": "spreadsheet",
+                    "application/vnd.sun.xml.writer": "document",
+                    "application/vnd.ms-excel": "spreadsheet",
+                    "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": "spreadsheet",
+                    "application/rtf": "document",
+                    "application/msword": "document",
+                    "application/vnd.oasis.opendocument.text": "document",
+                    "text/plain": "document",
+                    "text/csv": "spreadsheet",
+                    "text/rtf": "document",
+                    "application/x-vnd.oasis.opendocument.spreadsheet": "spreadsheet",
+                    "application/vnd.oasis.opendocument.spreadsheet": "spreadsheet",
+                    "application/vnd.openxmlformats-officedocument.wordprocessingml.document": "document"
+                }
+            },
+            "aos": {
+                "baseUrl": "http://127.0.0.1:8080/alfresco/aos"
+            },
+            "vtiServer": null
+        },
+        "onlineEditing": false,
+        "itemCounts": {
+            "folders": 7,
+            "documents": 0
+        },
+        "workingCopyLabel": " (Copie de Travail)"
+    },
+    "items": [
+        {
+            "node": {
+                "isLink": false,
+                "nodeRef": "workspace://SpacesStore/d0fb557b-cbcf-4dd5-ba88-935843a2cbc6",
+                "permissions": {
+                    "inherited": true,
+                    "roles": [
+                        "ALLOWED;GROUP_EVERYONE;Consumer;INHERITED"
+                    ],
+                    "user": {
+                        "Delete": true,
+                        "Write": true,
+                        "CancelCheckOut": false,
+                        "ChangePermissions": true,
+                        "CreateChildren": true,
+                        "Unlock": false
+                    }
+                },
+                "isLocked": false,
+                "aspects": [
+                    "cm:titled",
+                    "cm:auditable",
+                    "sys:referenceable",
+                    "sys:localized",
+                    "app:uifacets"
+                ],
+                "isContainer": true,
+                "type": "cm:folder",
+                "properties": {
+                    "cm:title": "Benutzer-Homes",
+                    "cm:creator": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:modifier": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:created": {
+                        "iso8601": "2022-09-21T11:50:40.557Z",
+                        "value": "Wed Sep 21 12:50:40 GMT+01:00 2022"
+                    },
+                    "sys:store-protocol": null,
+                    "sys:store-identifier": null,
+                    "cm:description": "Benutzer-Homes",
+                    "sys:node-uuid": null,
+                    "cm:name": "Benutzer-Homes",
+                    "sys:node-dbid": null,
+                    "sys:locale": null,
+                    "cm:modified": {
+                        "iso8601": "2022-09-21T11:50:40.557Z",
+                        "value": "Wed Sep 21 12:50:40 GMT+01:00 2022"
+                    },
+                    "app:icon": "space-icon-default"
+                }
+            },
+            "version": "1.0",
+            "webdavUrl": "/webdav/Benutzer-Homes",
+            "likes": {
+                "isLiked": false,
+                "totalLikes": 0
+            },
+            "location": {
+                "repositoryId": "e869dc3e-cbe1-4f20-87c5-a0e7dab70ca5",
+                "path": "/",
+                "repoPath": "/Home des Unternehmens",
+                "file": "Benutzer-Homes",
+                "parent": {}
+            }
+        },
+        {
+            "node": {
+                "isLink": false,
+                "nodeRef": "workspace://SpacesStore/e2adcb94-0740-4015-bc83-67a3353206dc",
+                "permissions": {
+                    "inherited": false,
+                    "roles": [
+                        "ALLOWED;GROUP_EVERYONE;Consumer;DIRECT",
+                        "ALLOWED;guest;Consumer;DIRECT"
+                    ],
+                    "user": {
+                        "Delete": true,
+                        "Write": true,
+                        "CancelCheckOut": false,
+                        "ChangePermissions": true,
+                        "CreateChildren": true,
+                        "Unlock": false
+                    }
+                },
+                "isLocked": false,
+                "aspects": [
+                    "cm:titled",
+                    "cm:auditable",
+                    "sys:referenceable",
+                    "sys:localized",
+                    "app:uifacets"
+                ],
+                "isContainer": true,
+                "type": "cm:folder",
+                "properties": {
+                    "cm:title": "Besucher-Home",
+                    "cm:creator": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:modifier": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:created": {
+                        "iso8601": "2022-09-21T11:50:40.499Z",
+                        "value": "Wed Sep 21 12:50:40 GMT+01:00 2022"
+                    },
+                    "sys:store-protocol": null,
+                    "sys:store-identifier": null,
+                    "cm:description": "Root-Arbeitsbereich für Gäste",
+                    "sys:node-uuid": null,
+                    "cm:name": "Besucher-Home",
+                    "sys:node-dbid": null,
+                    "sys:locale": null,
+                    "cm:modified": {
+                        "iso8601": "2022-09-21T11:50:40.499Z",
+                        "value": "Wed Sep 21 12:50:40 GMT+01:00 2022"
+                    },
+                    "app:icon": "space-icon-default"
+                }
+            },
+            "version": "1.0",
+            "webdavUrl": "/webdav/Besucher-Home",
+            "likes": {
+                "isLiked": false,
+                "totalLikes": 0
+            },
+            "location": {
+                "repositoryId": "e869dc3e-cbe1-4f20-87c5-a0e7dab70ca5",
+                "path": "/",
+                "repoPath": "/Home des Unternehmens",
+                "file": "Besucher-Home",
+                "parent": {}
+            }
+        },
+        {
+            "node": {
+                "isLink": false,
+                "nodeRef": "workspace://SpacesStore/1e74a1a3-5d7e-4bbb-b008-d154989aeea7",
+                "permissions": {
+                    "inherited": false,
+                    "roles": [
+                        "ALLOWED;GROUP_EVERYONE;Consumer;DIRECT"
+                    ],
+                    "user": {
+                        "Delete": true,
+                        "Write": true,
+                        "CancelCheckOut": false,
+                        "ChangePermissions": true,
+                        "CreateChildren": true,
+                        "Unlock": false
+                    }
+                },
+                "isLocked": false,
+                "aspects": [
+                    "cm:titled",
+                    "cm:auditable",
+                    "sys:referenceable",
+                    "sys:localized",
+                    "app:uifacets"
+                ],
+                "isContainer": true,
+                "type": "cm:folder",
+                "properties": {
+                    "cm:title": "Datenverzeichnis",
+                    "cm:creator": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:modifier": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:created": {
+                        "iso8601": "2022-09-21T11:50:39.834Z",
+                        "value": "Wed Sep 21 12:50:39 GMT+01:00 2022"
+                    },
+                    "sys:store-protocol": null,
+                    "sys:store-identifier": null,
+                    "cm:description": "Benutzerdefinierte Definitionen",
+                    "sys:node-uuid": null,
+                    "cm:name": "Datenverzeichnis",
+                    "sys:node-dbid": null,
+                    "sys:locale": null,
+                    "cm:modified": {
+                        "iso8601": "2022-09-21T11:51:21.085Z",
+                        "value": "Wed Sep 21 12:51:21 GMT+01:00 2022"
+                    },
+                    "app:icon": "space-icon-default"
+                }
+            },
+            "version": "1.0",
+            "webdavUrl": "/webdav/Datenverzeichnis",
+            "likes": {
+                "isLiked": false,
+                "totalLikes": 0
+            },
+            "location": {
+                "repositoryId": "e869dc3e-cbe1-4f20-87c5-a0e7dab70ca5",
+                "path": "/",
+                "repoPath": "/Home des Unternehmens",
+                "file": "Datenverzeichnis",
+                "parent": {}
+            }
+        },
+        {
+            "node": {
+                "isLink": false,
+                "nodeRef": "workspace://SpacesStore/807da3a3-a4e6-48c2-b135-819b8ad5e69c",
+                "permissions": {
+                    "inherited": false,
+                    "roles": [
+                        "ALLOWED;GROUP_EVERYONE;Contributor;DIRECT"
+                    ],
+                    "user": {
+                        "Delete": true,
+                        "Write": true,
+                        "CancelCheckOut": false,
+                        "ChangePermissions": true,
+                        "CreateChildren": true,
+                        "Unlock": false
+                    }
+                },
+                "isLocked": false,
+                "aspects": [
+                    "cm:titled",
+                    "cm:auditable",
+                    "sys:referenceable",
+                    "sys:localized",
+                    "app:uifacets"
+                ],
+                "isContainer": true,
+                "type": "cm:folder",
+                "properties": {
+                    "cm:title": "Freigegebener Ordner",
+                    "cm:creator": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:modifier": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:created": {
+                        "iso8601": "2022-09-21T11:50:40.577Z",
+                        "value": "Wed Sep 21 12:50:40 GMT+01:00 2022"
+                    },
+                    "sys:store-protocol": null,
+                    "sys:store-identifier": null,
+                    "cm:description": "Ordner zum Speichern freigegebener Elemente",
+                    "sys:node-uuid": null,
+                    "cm:name": "Freigegeben",
+                    "sys:node-dbid": null,
+                    "sys:locale": null,
+                    "cm:modified": {
+                        "iso8601": "2022-09-21T11:50:40.577Z",
+                        "value": "Wed Sep 21 12:50:40 GMT+01:00 2022"
+                    },
+                    "app:icon": "space-icon-default"
+                }
+            },
+            "version": "1.0",
+            "webdavUrl": "/webdav/Freigegeben",
+            "likes": {
+                "isLiked": false,
+                "totalLikes": 0
+            },
+            "location": {
+                "repositoryId": "e869dc3e-cbe1-4f20-87c5-a0e7dab70ca5",
+                "path": "/",
+                "repoPath": "/Home des Unternehmens",
+                "file": "Freigegeben",
+                "parent": {}
+            }
+        },
+        {
+            "node": {
+                "isLink": false,
+                "nodeRef": "workspace://SpacesStore/f75f16be-9537-4b1b-8081-181e93aac461",
+                "permissions": {
+                    "inherited": true,
+                    "roles": [
+                        "ALLOWED;GROUP_EVERYONE;Consumer;INHERITED"
+                    ],
+                    "user": {
+                        "Delete": true,
+                        "Write": true,
+                        "CancelCheckOut": false,
+                        "ChangePermissions": true,
+                        "CreateChildren": true,
+                        "Unlock": false
+                    }
+                },
+                "isLocked": false,
+                "aspects": [
+                    "cm:titled",
+                    "cm:auditable",
+                    "sys:referenceable",
+                    "sys:localized",
+                    "app:uifacets"
+                ],
+                "isContainer": true,
+                "type": "cm:folder",
+                "properties": {
+                    "cm:title": "IMAP-Anlagen",
+                    "cm:creator": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:modifier": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:created": {
+                        "iso8601": "2022-09-21T11:50:40.626Z",
+                        "value": "Wed Sep 21 12:50:40 GMT+01:00 2022"
+                    },
+                    "sys:store-protocol": null,
+                    "sys:store-identifier": null,
+                    "cm:description": "IMAP-Anlagen",
+                    "sys:node-uuid": null,
+                    "cm:name": "IMAP-Anlagen",
+                    "sys:node-dbid": null,
+                    "sys:locale": null,
+                    "cm:modified": {
+                        "iso8601": "2022-09-21T11:50:40.626Z",
+                        "value": "Wed Sep 21 12:50:40 GMT+01:00 2022"
+                    },
+                    "app:icon": "space-icon-default"
+                }
+            },
+            "version": "1.0",
+            "webdavUrl": "/webdav/IMAP-Anlagen",
+            "likes": {
+                "isLiked": false,
+                "totalLikes": 0
+            },
+            "location": {
+                "repositoryId": "e869dc3e-cbe1-4f20-87c5-a0e7dab70ca5",
+                "path": "/",
+                "repoPath": "/Home des Unternehmens",
+                "file": "IMAP-Anlagen",
+                "parent": {}
+            }
+        },
+        {
+            "node": {
+                "isLink": false,
+                "nodeRef": "workspace://SpacesStore/f2aaedf9-d217-4af1-b40a-52abf29a4ba8",
+                "permissions": {
+                    "inherited": true,
+                    "roles": [
+                        "ALLOWED;GROUP_EVERYONE;Consumer;INHERITED"
+                    ],
+                    "user": {
+                        "Delete": true,
+                        "Write": true,
+                        "CancelCheckOut": false,
+                        "ChangePermissions": true,
+                        "CreateChildren": true,
+                        "Unlock": false
+                    }
+                },
+                "isLocked": false,
+                "aspects": [
+                    "cm:titled",
+                    "cm:auditable",
+                    "sys:referenceable",
+                    "sys:localized",
+                    "app:uifacets"
+                ],
+                "isContainer": true,
+                "type": "cm:folder",
+                "properties": {
+                    "cm:title": "IMAP-Home",
+                    "cm:creator": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:modifier": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:created": {
+                        "iso8601": "2022-09-21T11:50:40.650Z",
+                        "value": "Wed Sep 21 12:50:40 GMT+01:00 2022"
+                    },
+                    "sys:store-protocol": null,
+                    "sys:store-identifier": null,
+                    "cm:description": "IMAP-Home",
+                    "sys:node-uuid": null,
+                    "cm:name": "IMAP-Home",
+                    "sys:node-dbid": null,
+                    "sys:locale": null,
+                    "cm:modified": {
+                        "iso8601": "2022-09-21T11:50:40.650Z",
+                        "value": "Wed Sep 21 12:50:40 GMT+01:00 2022"
+                    },
+                    "app:icon": "space-icon-default"
+                }
+            },
+            "version": "1.0",
+            "webdavUrl": "/webdav/IMAP-Home",
+            "likes": {
+                "isLiked": false,
+                "totalLikes": 0
+            },
+            "location": {
+                "repositoryId": "e869dc3e-cbe1-4f20-87c5-a0e7dab70ca5",
+                "path": "/",
+                "repoPath": "/Home des Unternehmens",
+                "file": "IMAP-Home",
+                "parent": {}
+            }
+        },
+        {
+            "node": {
+                "isLink": false,
+                "nodeRef": "workspace://SpacesStore/1a8c65dd-acfd-4741-b793-91f2f91789b8",
+                "permissions": {
+                    "inherited": true,
+                    "roles": [
+                        "ALLOWED;GROUP_EVERYONE;Consumer;INHERITED"
+                    ],
+                    "user": {
+                        "Delete": true,
+                        "Write": true,
+                        "CancelCheckOut": false,
+                        "ChangePermissions": true,
+                        "CreateChildren": true,
+                        "Unlock": false
+                    }
+                },
+                "isLocked": false,
+                "aspects": [
+                    "cm:titled",
+                    "cm:auditable",
+                    "sys:referenceable",
+                    "sys:localized",
+                    "app:uifacets"
+                ],
+                "isContainer": true,
+                "type": "st:sites",
+                "properties": {
+                    "cm:title": "Sites",
+                    "cm:creator": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:modifier": {
+                        "firstName": "System",
+                        "lastName": "User",
+                        "displayName": "System User",
+                        "userName": "System"
+                    },
+                    "cm:created": {
+                        "iso8601": "2022-09-21T11:50:49.281Z",
+                        "value": "Wed Sep 21 12:50:49 GMT+01:00 2022"
+                    },
+                    "sys:store-protocol": null,
+                    "sys:store-identifier": null,
+                    "cm:description": "Collaboration-Site-Arbeitsbereiche",
+                    "sys:node-uuid": null,
+                    "cm:name": "Sites",
+                    "sys:node-dbid": null,
+                    "sys:locale": null,
+                    "cm:modified": {
+                        "iso8601": "2022-09-21T11:51:15.913Z",
+                        "value": "Wed Sep 21 12:51:15 GMT+01:00 2022"
+                    },
+                    "app:icon": "space-icon-default"
+                }
+            },
+            "version": "1.0",
+            "webdavUrl": "/webdav/Sites",
+            "likes": {
+                "isLiked": false,
+                "totalLikes": 0
+            },
+            "location": {
+                "repositoryId": "e869dc3e-cbe1-4f20-87c5-a0e7dab70ca5",
+                "path": "/",
+                "repoPath": "/Home des Unternehmens",
+                "file": "Sites",
+                "parent": {}
+            }
+        }
+    ]
+}
